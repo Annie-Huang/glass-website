@@ -10,7 +10,7 @@ h1 {
   font-size: 3rem;
   opacity: 0.8;
 }
-h2 {
+h2, p {
   color: #658ec6;
   font-weight: 500;
   opacity: 0.8;
@@ -162,6 +162,5 @@ main {
   background: linear-gradient(to right top, #65dfc9, #6cdbeb);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-
 }
 
