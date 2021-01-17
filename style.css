@@ -157,4 +157,11 @@ main {
   left: 60%;
 }
 
+.percentage {
+  font-weight: bold;
+  background: linear-gradient(to right top, #65dfc9, #6cdbeb);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+}
 
