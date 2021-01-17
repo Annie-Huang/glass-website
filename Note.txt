@@ -3,4 +3,6 @@ Build Glass Website with HTML and CSS Tutorial (https://www.youtube.com/watch?v=
 https://github.com/developedbyed/glass-website
 https://github.com/Annie-Huang/glass-website
 
+https://fonts.google.com/specimen/Poppins?query=poppin
+https://fonts.google.com/specimen/Poppins?query=poppin&sidebar.open=true&selection.family=Poppins:wght@400;500;700
 =========================================================================
