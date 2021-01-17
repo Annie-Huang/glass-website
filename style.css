@@ -22,6 +22,8 @@ main {
   border-radius: 2rem;
   z-index: 2;
   backdrop-filter: blur(2rem); /* <<< The magic happens in here... the higher the number, the stronger the frontground color*/
+
+  display: flex;
 }
 
 .circle1, .circle2 {
@@ -39,4 +41,12 @@ main {
 .circle2 {
   bottom: 5%;
   left: 10%;
+}
+
+.dashboard {
+  flex: 1; /* if .game doesn't have any flex value. flex: 1 in .dashboard will take up all the remaining spacing */
+}
+
+.games {
+  flex: 2;
 }
